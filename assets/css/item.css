@@ -2,15 +2,46 @@ body {
     font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
   }
 .card2{
-    background: #c9a0dc;
+    background: #f3f2bf;
     border-radius: 20px;
     box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    width: 110%;
+    height: 100%;
+    margin-left: 5%;
+ 
 }
 .card-header2{
-    background: #9932cc;
+    background: #ccc232;
     border-radius: 10px;
     text-align: center;
     box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+#itbtn{
+    background: #26be00 ;
+    color: rgb(0, 0, 0);
+    
+}
+#itbtn:hover{
+    background: #1e8a03 ;
+    color: rgb(255, 255, 255);
+    width: 60px;
+}
+#item_update_btn{
+    background: #f70404 ;
+    color: rgb(255, 255, 255);
+}
+#item_update_btn:hover{
+    background: #b10303 ;
+    color: rgb(255, 255, 255);
+}
+#item_clean_btn{
+    background: #fceb05 ;
+    color: rgb(0, 0, 0);
+}
+#item_clean_btn:hover{
+    background: #d8a704 ;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -28,12 +59,14 @@ body {
 
 }
 #tablerow>th{
-    background: #cb99c9;
+    background: #ddca73;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    
 }
-#table{
-    max-width: 400px;
-    margin-top: 10px;
+
+#itemTable{
+    margin-left: 5%;
+    width: 110%;
 }
 .dash>div:nth-child(3){
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
