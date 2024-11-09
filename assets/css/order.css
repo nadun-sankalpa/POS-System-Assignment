@@ -1,0 +1,45 @@
+.btn{
+    align-items: center;
+
+}
+.card3{
+    margin-top: 10px;
+    background: #c4aead;
+    width: 80%;
+    margin-left: 17%;
+}
+.card3-header{
+    font-size: 25px;
+    background: #f5f5f5;
+}
+.table{
+    margin-top: 25px;
+    border: 2px solid black;
+}
+
+.form-control{
+    border: 2px solid black;
+}
+
+.mb-3>input{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.mb-3>select{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border: 2px solid black;
+}
+
+.form-label{
+    color: black;
+}
+.btn{
+    margin-top: 10px;
+}
+#orSaveBtn{
+    align-items: center;
+}
+
+.card{
+    margin: 100px 30px;
+    gap: 50px;
+}

@@ -1,0 +1,51 @@
+body {
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  }
+.card2{
+    background: #c9a0dc;
+    border-radius: 20px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.card-header2{
+    background: #9932cc;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+
+#item_form{
+    margin-top: 20px;
+}
+
+.dashboard-section{
+    border: 4px solid red;
+    background: antiquewhite;
+}
+
+#raw{
+    margin-top: -100px;
+
+}
+#tablerow>th{
+    background: #cb99c9;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+#table{
+    max-width: 400px;
+    margin-top: 10px;
+}
+.dash>div:nth-child(3){
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.dash>div>div{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#ca_1{
+    margin-top: 10px;
+}
+#ca_4{
+    margin-top: -115px;
+}
